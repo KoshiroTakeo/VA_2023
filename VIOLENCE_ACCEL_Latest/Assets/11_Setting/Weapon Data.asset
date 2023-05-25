@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7020e0651a54d1d4dbe78bb563983b38, type: 3}
+  m_Name: Weapon Data
+  m_EditorClassIdentifier: 
+  Style: 0
+  fAttack: 10
+  fBulletSpeed: 40
+  fRecast_Primaly: 0.2
+  fRecast_Secondly: 5
+  PrimaryBullet: {fileID: 2742267408579373263, guid: 049e61e59f4bdc84bb75fd8c79b3ce75,
+    type: 3}
+  SecondlyBullet: {fileID: 2742267408579373263, guid: 049e61e59f4bdc84bb75fd8c79b3ce75,
+    type: 3}
+  PrimaryEffect: {fileID: 8832165551110568728, guid: a388626c1d8c79c46b834490bab8ad45,
+    type: 3}
+  SecondlyEffect: {fileID: 0}

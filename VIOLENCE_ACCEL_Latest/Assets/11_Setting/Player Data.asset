@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c97d32b9dea0f94cb756a5e92512afb, type: 3}
+  m_Name: Player Data
+  m_EditorClassIdentifier: 
+  nHP: 20000
+  nAttack: 100
+  fSpeed: 1
+  nShild: 2000
+  Left_PrimaryWeapon: {fileID: 8989568013364368539, guid: 817353de5ccf95145b58ad06099836ec,
+    type: 3}
+  Left_SecondaryWeapon: {fileID: 112825319571062052, guid: f9bb473e2a9e24d47bfdfd2400aa3f00,
+    type: 3}
+  Right_PrimaryWeapon: {fileID: 8989568013364368539, guid: 817353de5ccf95145b58ad06099836ec,
+    type: 3}
+  Right_SecondaryWeapon: {fileID: 112825319571062052, guid: f9bb473e2a9e24d47bfdfd2400aa3f00,
+    type: 3}
